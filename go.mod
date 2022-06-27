@@ -1,4 +1,4 @@
-module github.com/SuperQiangYuan/fasthttp
+module github.com/valyala/fasthttp
 
 go 1.15
 
